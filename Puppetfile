@@ -3,7 +3,7 @@
 
 forge "https://forgeapi.puppetlabs.com";
 
-mod 'alexsslsp-confsbase'
+mod 'alexslssp-confsbase'
 mod 'alexslssp-memcached'
 mod 'alexslssp-mysqlserver'
 
