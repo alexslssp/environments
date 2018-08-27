@@ -4,8 +4,9 @@
 forge "https://forgeapi.puppetlabs.com";
 
 mod 'alexslssp-confsbase'
-#mod '<user_puppetforge>-memcached'
-#mod '<user_puppetforge>-mysqlserver'
+mod 'puppetlabs-motd'
+#mod 'alexslssp-memcached'
+#mod 'alexslssp-mysqlserver'
 
 #mod 'puppet-webserver',
   #:git => 'https://github.com/<user_github>/puppet-webserver.git',
